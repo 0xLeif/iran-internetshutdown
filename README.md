@@ -1,4 +1,4 @@
-# -internetshutdown
+# Iran Internet Shutdown
 **Spread the word to help Iran**
 
 ## [Supporters](supporters.md)
